@@ -1,0 +1,11 @@
+.backdrop {
+    position: absolute;
+    top: 0;
+    left: var(--navbar-width);
+    height: 100%;
+    width: calc(100% - var(--navbar-width));
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

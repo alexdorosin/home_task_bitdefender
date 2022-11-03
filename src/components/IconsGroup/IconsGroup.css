@@ -1,0 +1,11 @@
+.container {
+    width: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.notifications {
+    transform: translateY(-4px);
+}
