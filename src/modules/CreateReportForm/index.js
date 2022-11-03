@@ -1,5 +1,6 @@
 import CheckboxInputGroup from "../../components/CheckboxInputGroup";
 import FormSelect from "../../components/FormSelect";
+import Heading from "../../components/Heading";
 import RadioInputGroup from "../../components/RadioInputGroup";
 import TextInput from "../../components/TextInput";
 import "./CreateReportForm.css";
@@ -7,7 +8,8 @@ import "./CreateReportForm.css";
 function CreateReportForm() {
     return (
         <form className="form">
-            <h4 className="subheading">Details</h4>
+            <Heading title="Details" />
+
             <div className="field-wrapper">
                 <FormSelect
                     id="type"
@@ -29,7 +31,7 @@ function CreateReportForm() {
                 />
             </div>
 
-            <h4>Settings</h4>
+            <Heading title="Settings" />
 
             <RadioInputGroup />
 

@@ -2,7 +2,7 @@ import "./Select.css";
 
 function Select({ optionsList, ...props }) {
     return (
-        <select {...props} className="select">
+        <select {...props}>
             {optionsList?.map(({ name, value }) => (
                 <option value={value} key={name}>
                     {name}
