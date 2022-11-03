@@ -6,7 +6,11 @@ h3 {
     font-family: inherit;
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: 0px;
+    margin: 0px;
+}
+
+.heading {
+    margin-top: 15px;
 }
 
 p {

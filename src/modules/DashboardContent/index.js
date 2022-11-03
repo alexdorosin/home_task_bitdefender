@@ -2,8 +2,7 @@ import "./DashboardContent.css";
 import { ReactComponent as IllustrationIcon } from "../../svg/illustration.svg";
 import Button from "../../components/Button";
 import { useState } from "react";
-import Modal from "../../components/Modal";
-import { AnimatePresence } from "framer-motion";
+import CreateReportModal from "../CreateReportModal";
 
 function DashboardContent() {
     const [modalOpen, setModalOpen] = useState(false);
@@ -14,21 +13,14 @@ function DashboardContent() {
     return (
         <section className="wrapper">
             <IllustrationIcon />
-            <h3>Start creating reports</h3>
+            <h3 className="heading">Start creating reports</h3>
             <p>You don't have any reports defined yet</p>
+
             <Button type="primary" onClick={open}>
                 CREATE REPORT
             </Button>
 
-            <AnimatePresence
-                initial={false}
-                exitBeforeEnter={true}
-                onExitComplete={() => null}
-            >
-                {modalOpen && (
-                    <Modal text={"Create Report"} handleClose={close} />
-                )}
-            </AnimatePresence>
+            <CreateReportModal modalOpen={modalOpen} close={close} />
         </section>
     );
 }

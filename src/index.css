@@ -7,6 +7,8 @@
     --bg-secondary: #027ee6;
     --navbar-width: 6rem;
     --header-height: 4rem;
+    --toastify-toast-background: red;
+    overflow: hidden;
 }
 
 body {

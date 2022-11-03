@@ -23,19 +23,18 @@ const dropIn = {
     },
 };
 
-function Modal({ handleClose, text }) {
+function Modal({ children, handleClose }) {
     return (
         <Backdrop onClick={handleClose}>
             <motion.div
                 onClick={(e) => e.stopPropagation()}
-                className="modal orange-gradient"
+                className="modal"
                 variants={dropIn}
                 initial="hidden"
                 animate="visible"
                 exit="exit"
             >
-                <p>{text}</p>
-                <button onClick={handleClose}>close</button>
+                {children}
             </motion.div>
         </Backdrop>
     );

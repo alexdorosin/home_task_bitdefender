@@ -11,7 +11,7 @@ function Navbar() {
 
             <ul className="navbar-nav">
                 {menuItemsList?.map(({ name, svg }) => (
-                    <li className="nav-item">
+                    <li className="nav-item" key={name}>
                         <div className="nav-link">
                             {svg}
                             <span className="link-text">{name}</span>
