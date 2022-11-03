@@ -1,0 +1,17 @@
+@media only screen and (max-width: 800px) {
+    .main-container {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .fallback {
+        display: none;
+    }
+}
+
+.fallback {
+    text-align: center;
+    color: red;
+    transform: translateY(50px);
+}

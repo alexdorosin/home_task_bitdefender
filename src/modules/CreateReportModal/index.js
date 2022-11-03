@@ -24,7 +24,7 @@ function CreateReportModal({ modalOpen, close }) {
         >
             {modalOpen && (
                 <Modal handleClose={close}>
-                    <div>
+                    <div className="modal-container">
                         <div className="modal-header">
                             <h3>Create Report</h3>
                             <CloseIcon className="close-icon" onClick={close} />
