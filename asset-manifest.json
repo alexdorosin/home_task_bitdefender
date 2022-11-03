@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home_task_bitdefender/static/css/main.d0f8bbe5.css",
-    "main.js": "/home_task_bitdefender/static/js/main.5528d1ed.js",
+    "main.css": "/home_task_bitdefender/static/css/main.e0e7ab38.css",
+    "main.js": "/home_task_bitdefender/static/js/main.7890a833.js",
     "static/media/illustration.svg": "/home_task_bitdefender/static/media/illustration.ebc12e94a4c8908a118ea66dc5f8c793.svg",
     "static/media/network.svg": "/home_task_bitdefender/static/media/network.8fb0a943c2c47c947db4666b49c73ddc.svg",
     "static/media/accounts.svg": "/home_task_bitdefender/static/media/accounts.bb219060f239f8287c0568b2d0234cf9.svg",
@@ -20,11 +20,11 @@
     "static/media/incidents.svg": "/home_task_bitdefender/static/media/incidents.8d79737a3cb26b6abf7963a04f96700e.svg",
     "static/media/question.svg": "/home_task_bitdefender/static/media/question.c3d6ad2714a619dc46440b1f547d5a71.svg",
     "static/media/close.svg": "/home_task_bitdefender/static/media/close.4beb909644be4c9b51b13ce4371625f4.svg",
-    "main.d0f8bbe5.css.map": "/home_task_bitdefender/static/css/main.d0f8bbe5.css.map",
-    "main.5528d1ed.js.map": "/home_task_bitdefender/static/js/main.5528d1ed.js.map"
+    "main.e0e7ab38.css.map": "/home_task_bitdefender/static/css/main.e0e7ab38.css.map",
+    "main.7890a833.js.map": "/home_task_bitdefender/static/js/main.7890a833.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0f8bbe5.css",
-    "static/js/main.5528d1ed.js"
+    "static/css/main.e0e7ab38.css",
+    "static/js/main.7890a833.js"
   ]
 }
