@@ -8,6 +8,7 @@
     --navbar-width: 6rem;
     --header-height: 4rem;
     --toastify-toast-background: red;
+    --footer-height: 3rem;
     overflow: hidden;
 }
 

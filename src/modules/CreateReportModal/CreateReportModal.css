@@ -37,6 +37,7 @@ h3 {
     text-align: left;
     overflow-x: hidden;
     overflow-y: auto;
+    max-height: calc(100% - 5rem);
 }
 
 .modal-container::-webkit-scrollbar {
