@@ -14,9 +14,13 @@
     transform: rotate(-360deg);
 }
 
-/* .navbar:hover {
+.navbar:hover {
     width: 8rem;
-} */
+}
+
+.navbar:hover .expand {
+    display: none;
+}
 
 .expand {
     position: absolute;

@@ -1,5 +1,6 @@
 .modal {
-    width: 100%;
+    margin-left: var(--navbar-width);
+    width: calc(100% - var(--navbar-width));
     height: calc(100% - (2 * var(--header-height)));
     background: var(--text-primary);
     position: relative;

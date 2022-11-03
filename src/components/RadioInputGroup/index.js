@@ -44,6 +44,12 @@ function RadioInputGroup() {
                             <label htmlFor="on">On</label>
                             <select name="on" id="on">
                                 <option>Monday</option>
+                                <option>Thuesday</option>
+                                <option>Wednesday</option>
+                                <option>Thursday</option>
+                                <option>Friday</option>
+                                <option>Saturday</option>
+                                <option>Sunday</option>
                             </select>
                         </div>
                     </div>
