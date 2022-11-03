@@ -1,0 +1,7 @@
+.modal {
+    width: 100%;
+    height: calc(100% - (2 * var(--header-height)));
+    background: var(--text-primary);
+    position: relative;
+    margin-bottom: var(--header-height);
+}

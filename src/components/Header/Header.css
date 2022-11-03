@@ -1,0 +1,10 @@
+.header {
+    width: calc(100% - var(--navbar-width) - 20px);
+    margin-left: var(--navbar-width);
+    margin-right: 20px;
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 50px;
+}

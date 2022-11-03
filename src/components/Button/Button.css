@@ -1,0 +1,22 @@
+.primary {
+    font-size: 14px;
+    font-family: inherit;
+    color: var(--text-primary);
+    border: none;
+    border-radius: 32px;
+    padding: 7px 16px;
+    background-color: var(--bg-secondary);
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.secondary {
+    font-size: 14px;
+    font-family: inherit;
+    color: var(--text-secondary);
+    border: 1px solid var(--text-secondary);
+    border-radius: 32px;
+    padding: 7px 16px;
+    background-color: transparent;
+    cursor: pointer;
+}

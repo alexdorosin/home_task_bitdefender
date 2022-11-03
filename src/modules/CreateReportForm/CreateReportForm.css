@@ -1,0 +1,31 @@
+h4 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.form {
+    padding: 1.4rem;
+}
+
+label {
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 400;
+
+    span {
+        color: #027ee6;
+    }
+}
+
+.field-wrapper {
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.field-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

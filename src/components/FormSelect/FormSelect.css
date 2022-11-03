@@ -1,0 +1,21 @@
+.field-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+select {
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 400;
+    width: 240px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    cursor: pointer;
+}
+
+select:focus,
+select:hover {
+    outline: none;
+}
