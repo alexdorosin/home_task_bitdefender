@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/home_task_bitdefender/static/css/main.475546af.css",
+    "main.js": "/home_task_bitdefender/static/js/main.e0436003.js",
+    "static/media/illustration.svg": "/home_task_bitdefender/static/media/illustration.ebc12e94a4c8908a118ea66dc5f8c793.svg",
+    "static/media/network.svg": "/home_task_bitdefender/static/media/network.8fb0a943c2c47c947db4666b49c73ddc.svg",
+    "static/media/accounts.svg": "/home_task_bitdefender/static/media/accounts.bb219060f239f8287c0568b2d0234cf9.svg",
+    "index.html": "/home_task_bitdefender/index.html",
+    "static/media/risk.svg": "/home_task_bitdefender/static/media/risk.3892e11591c6ae9e411765134d2524b1.svg",
+    "static/media/quarantine.svg": "/home_task_bitdefender/static/media/quarantine.dc27c60c75aedef37783e141e37740dc.svg",
+    "static/media/sandbox.svg": "/home_task_bitdefender/static/media/sandbox.ed7764f7c7b3dfc2f1ef8440aebb75ce.svg",
+    "static/media/dashboard.svg": "/home_task_bitdefender/static/media/dashboard.8fac37c8080f4e79368eee182ca381d7.svg",
+    "static/media/bell.svg": "/home_task_bitdefender/static/media/bell.2705bd661d25afded0b96789aa4a2181.svg",
+    "static/media/companies.svg": "/home_task_bitdefender/static/media/companies.6d7fe29269d3e59704493aa3925da822.svg",
+    "static/media/gift.svg": "/home_task_bitdefender/static/media/gift.20714b27eebb0eef31cfd07e46d82f41.svg",
+    "static/media/expand-button.svg": "/home_task_bitdefender/static/media/expand-button.90a11453515938e9f168e173b087b250.svg",
+    "static/media/policies.svg": "/home_task_bitdefender/static/media/policies.76d3c006cfee86089c7ef6e2ff829f11.svg",
+    "static/media/reports.svg": "/home_task_bitdefender/static/media/reports.5ac75e5c095ba731102b687431c4029c.svg",
+    "static/media/logo.svg": "/home_task_bitdefender/static/media/logo.b7ec944424de29e1fda0a7e285db1d0e.svg",
+    "static/media/incidents.svg": "/home_task_bitdefender/static/media/incidents.8d79737a3cb26b6abf7963a04f96700e.svg",
+    "static/media/question.svg": "/home_task_bitdefender/static/media/question.c3d6ad2714a619dc46440b1f547d5a71.svg",
+    "static/media/close.svg": "/home_task_bitdefender/static/media/close.4beb909644be4c9b51b13ce4371625f4.svg",
+    "main.475546af.css.map": "/home_task_bitdefender/static/css/main.475546af.css.map",
+    "main.e0436003.js.map": "/home_task_bitdefender/static/js/main.e0436003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475546af.css",
+    "static/js/main.e0436003.js"
+  ]
+}
