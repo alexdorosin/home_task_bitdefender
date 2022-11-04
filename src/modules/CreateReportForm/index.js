@@ -27,7 +27,7 @@ function CreateReportForm() {
                     type="text"
                     name="Name"
                     id="name"
-                    placeholder="Placeholder"
+                    placeholder="Your name"
                 />
             </div>
 
