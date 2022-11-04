@@ -111,6 +111,6 @@ Project Link: [https://github.com/alexdorosin/home_task_bitdefender](https://git
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alex-adrian-doro%C8%99in-27287a180/
-[product-screenshot]: /public/screenshot.png
+[product-screenshot]: /public/screenshot.PNG
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
